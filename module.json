@@ -1,7 +1,7 @@
 {
     "name": "compendium-folders",
     "title": "Compendium Folders",
-    "description": "Collapsable folders for compendiums",
+    "description": "Collapsable folders for compendiums - pf1 Testing",
     "author": "Erceron",
     "version": "1.0.9",
     "minimumCoreVersion": "0.6.5",
@@ -28,6 +28,6 @@
     ],
     "styles": ["./styles.css"],
     "url": "https://github.com/earlSt1/vtt-compendium-folders",
-    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json",
-    "download": "https://github.com/earlSt1/vtt-compendium-folders/archive/1.0.9.zip"
+    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/pf1-testing/module.json",
+    "download": "https://github.com/earlSt1/vtt-compendium-folders/archive/pf1-testing.zip"
   }

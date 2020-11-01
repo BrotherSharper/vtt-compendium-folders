@@ -1211,7 +1211,7 @@ export class Settings{
 var eventsSetup = []
 
 Hooks.once('setup',async function(){
-    let hooks = ['renderCompendiumDirectory','renderCompendiumDirectoryPF'];
+    let hooks = ['renderCompendiumDirectory'];
 
     for (let hook of hooks){
         Hooks.on(hook, async function() {
